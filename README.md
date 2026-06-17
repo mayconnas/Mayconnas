@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Pleno Delphi | Sistemas ERP/PDV/Food | Automação N8N | Análise de Dados On-chain
 
-Olá! Sou o Maycon Nascimento, desenvolvedor pleno com uma trajetória construída da base: comecei como analista de suporte e evoluí até o desenvolvimento em Delphi. Hoje atuo na construção e manutenção de sistemas de gestão empresarial (ERP, PDV e Food), unindo desenvolvimento, automação de processos e análise de dados.
+Olá! Sou o Maycon Nascimento, desenvolvedor pleno com uma trajetória construída da base: comecei como analista de suporte e evoluí até o desenvolvimento em Delphi. Hoje atuo na construção e manutenção de sistemas de gestão empresarial (ERP, PDV e Food), unindo desenvolvimento, automação de processos e análise de dados. Além do ecossistema Delphi, também desenvolvo com tecnologias web modernas — JavaScript, TypeScript, React, Next.js e Node.js — e com Python.
 
 ### 👤 Sobre mim
 
@@ -17,9 +17,11 @@ Olá! Sou o Maycon Nascimento, desenvolvedor pleno com uma trajetória construí
 
 ### 🛠️ Habilidades
 
-- **Linguagens**: Delphi (Object Pascal), SQL
+- **Linguagens**: Delphi (Object Pascal), JavaScript, TypeScript, Python, SQL
+- **Front-end**: React, Next.js
+- **Back-end & APIs**: Node.js, APIs REST
 - **Banco de Dados e Relatórios**: Firebird, FireDAC, Fast Report
-- **Integrações e Automação**: APIs REST, N8N, ACBr (NF-e, NFC-e, CT-e)
+- **Automação & Fiscal**: N8N, ACBr (NF-e, NFC-e, CT-e)
 - **Sistemas de Gestão**: ERP, PDV, Sistemas Food e conhecimento fiscal
 - **Dados e Blockchain**: Análise de dados on-chain (Dune), dados financeiros de criptoativos
 - **Boas Práticas**: Clean Code, trabalho em equipe e uso de IA aplicada ao desenvolvimento
